@@ -14,4 +14,4 @@ Representing George (3rd group member): Chase Wagoner
 										cwagoner@usc.edu
 										cwagoner
 Wed. 6pm
-![alt text](http://octodex.github.com/daftpunktocat-thomas/ "Favorite Octo Cat")
+![alt text](http://octodex.github.com/images/daftpunktocat-thomas.gif) "Favorite Octo Cat")
